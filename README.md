@@ -2,6 +2,8 @@
 
 A simple web-based **Expense Tracker App** that allows users to record and manage their daily expenses. It provides an interactive user interface to input expenses, view a list of recorded expenses, and calculate the total expenditure.
 
+Have a look: https://manas-raj999.github.io/EXPENSE-TRACKER-APP/
+
 ## Features
 
 ✅ **Add Expenses**: Input category, amount, and date for each expense.  
